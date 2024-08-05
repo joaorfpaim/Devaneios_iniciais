@@ -1,5 +1,5 @@
 name = input('Whats is your name:')
-yo = int(input(f'Hi ,{name}, how old are you: '))
+yo = int(input(f'Hi ,{name}, how old are you?: '))
 l1 = [1,2,3,4]
 l2 = [5,6,7,8,9,10,11,12,13,14]
 l3 = [15,16,17,18]
