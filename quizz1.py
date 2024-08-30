@@ -4,7 +4,7 @@ p1 = input('Resposta:').lower()
 if p1 not in ['a','b','c','d']:
     print('Error')
 else:
-    if p1 == 'a':
+    if p1 ==          'a':
         print('Correct answer.')
     else:
         print('Incorrect answer.')
