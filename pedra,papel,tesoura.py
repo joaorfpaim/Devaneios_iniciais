@@ -4,8 +4,8 @@ import random
 
 print('-----------Pedra,Papel,Tesoura-----------')
 
-movimentos = ['pedra','papel','tesoura']
-nome = input('Insira seu nome: ') or 'Entrada inválida.'
+movimentos = ['pedra','papel','tesoura']invál
+nome = input('Insira seu nome: ')
 
 def jogo():
     pontopc = 0
