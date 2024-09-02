@@ -4,7 +4,7 @@ import random
 
 print('-----------Pedra,Papel,Tesoura-----------')
 
-movimentos = ['pedra','papel','tesoura']invál
+movimentos = ['pedra','papel','tesoura']
 nome = input('Insira seu nome: ')
 
 def jogo():
